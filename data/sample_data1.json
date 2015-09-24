@@ -1,0 +1,518 @@
+[
+    {
+        "date": "2015-02-08",
+        "hour": 6,
+        "mac_address": "0C:3E:9F:60:53:32",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 6,
+        "mac_address": "40:0E:85:52:68:4E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 6,
+        "mac_address": "60:F8:1D:DB:E4:A0",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 6,
+        "mac_address": "6E:C8:FE:81:0B:16",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 6,
+        "mac_address": "CA:ED:2F:0B:A2:7D",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "06:52:5D:C4:DA:15",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "0C:3E:9F:60:53:32",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "10:68:3F:84:69:54",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "20:64:32:56:E8:8D",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "32:74:AC:15:39:3B",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "34:51:C9:8D:43:C4",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "34:A3:95:7E:01:B5",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "40:F3:08:18:26:EF",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "40:F3:08:18:AA:9F",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "40:F3:08:1E:C1:1E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "42:53:63:05:2B:5C",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "42:E7:BE:0F:DA:F1",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "5C:0A:5B:28:20:B4",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "5C:0A:5B:35:A4:2F",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "60:F8:1D:DB:E4:A0",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "62:1F:E9:64:F8:A5",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "62:B5:7D:A3:5E:70",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "78:7E:61:63:35:AB",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "88:32:9B:52:D1:6A",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "8A:35:DF:20:19:03",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "8C:3A:E3:18:F1:19",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "9C:20:7B:0A:68:36",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "CC:3A:61:D1:8B:9C",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "CC:FA:00:F6:9B:2A",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "D2:FC:BE:BC:3A:69",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "D6:6C:34:61:2F:EA",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "D8:BB:2C:7D:06:D4",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "E0:B5:2D:1A:42:A6",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F0:27:65:12:CA:B6",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F0:DB:E2:8D:58:CE",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F2:22:28:DF:68:52",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F2:DC:80:A5:1E:A9",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F4:09:D8:D7:2B:C8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "F6:D1:02:85:EE:BB",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 7,
+        "mac_address": "FC:E9:98:F1:91:8E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "D8:9E:3F:95:02:BC",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "D8:9E:3F:B7:3D:31",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "DA:AF:D2:42:CC:4C",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "DC:9B:9C:85:DF:F2",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "E0:B5:2D:19:A5:F3",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "E0:B5:2D:1B:3A:C6",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "E8:B1:FC:5E:13:B1",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "EC:88:92:04:8F:91",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "F0:24:75:76:FD:49",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "F0:27:65:35:CA:C0",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "F0:DB:E2:8D:58:CE",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "F4:09:D8:46:D1:5E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "F8:A9:D0:74:A9:B5",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "FA:98:C4:97:7B:3C",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "FC:E9:98:F1:91:8E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "00:EE:BD:B1:57:42",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "10:3B:59:16:0A:C8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "10:68:3F:37:95:4A",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "12:B4:B5:85:09:C6",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "18:67:B0:5B:D9:D8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "18:F6:43:60:99:97",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "18:F6:43:66:07:E8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "1A:80:0E:27:F1:F9",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "1C:99:4C:F2:8A:42",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "1E:FD:7E:03:67:9A",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "30:10:E4:06:D8:24",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "34:51:C9:8D:43:C4",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "34:A3:95:A2:70:F7",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "3A:3F:2E:CD:86:B2",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "40:A6:D9:A8:ED:B8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "46:47:DA:B8:59:CC",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "48:74:6E:4A:41:48",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "48:E9:F1:8E:05:46",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "4E:2D:4B:C4:07:6F",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "50:CC:F8:E2:99:B3",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "58:1F:AA:5B:EC:55",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "5C:0A:5B:28:20:B4",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "5C:51:4F:2E:D3:F8",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "5E:82:C4:A2:68:BA",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "5E:BE:06:EE:C6:70",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "60:FA:CD:7B:82:7E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "64:9A:BE:48:10:FC",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "64:9A:BE:CD:33:2E",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "64:9A:BE:F0:A1:36",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "6C:88:14:03:E8:DC",
+        "is_inside": "0"
+    },
+    {
+        "date": "2015-02-08",
+        "hour": 8,
+        "mac_address": "6E:9B:74:D4:90:97",
+        "is_inside": "0"
+    }
+]
