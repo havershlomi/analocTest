@@ -1,0 +1,2 @@
+angular.module("analoc", ['ngBootstrap']);
+

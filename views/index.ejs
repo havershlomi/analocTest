@@ -1,11 +1,39 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html ng-app="analoc">
+<head>
     <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css'/>
+    <link rel='stylesheet' href='/stylesheets/daterangepicker-bs3.css'/>
+
+
+    <script src="/javascripts/jquery.js" type="text/javascript"></script>
+    <script src="/javascripts/bootstrap.js" type="text/javascript"></script>
+    <script src="/javascripts/moment.js" type="text/javascript"></script>
+    <script src="/javascripts/daterangepicker.js" type="text/javascript"></script>
+    <script src="/javascripts/angular.min.js" type="text/javascript"></script>
+    <script src="/javascripts/ng-bs-daterangepicker.min.js" type="text/javascript"></script>
+
+
+    <script src="/javascripts/Chart.js" type="text/javascript"></script>
+    <!--<script src="/javascripts/angular-chart.js" type="text/javascript"></script>-->
+
+    <script src="/javascripts/app.js" type="text/javascript"></script>
+    <script src="/javascripts/controller/graphController.js" type="text/javascript"></script>
+    <script src="/javascripts/factory/graphFactory.js" type="text/javascript"></script>
+
+
+</head>
+<body>
+
+<div ng-controller="graphController">
+<input type="daterange" ng-model="myDateRange"/>
+
+    <!--<canvas id="line" class="chart chart-line" chart-data="data"-->
+            <!---->
+            <!--chart-labels="labels" chart-legend="true" chart-series="series" >-->
+    <!--</canvas>-->
+    <canvas id="myChart" width="600"  height="400"></canvas>
+</div>
+</body>
 </html>
